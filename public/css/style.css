@@ -1,0 +1,8 @@
+﻿/* Contact Form */
+.contact input[type="text"]{width:300px;border:1px solid #39454e;background:#e1e1e1;margin-top:2px;padding:3px;}
+.contact input[type="text"]:hover{width:300px;border:1px solid #39454e;background:#ffffff;margin-top:2px;padding:3px;}
+label.error {color: red; padding-left: 20px; }
+textarea{width:400px;height:100px;border:1px solid #39454e;background:#e1e1e1;margin-top:2px;}
+textarea:hover{width:400px;height:100px;border:1px solid #39454e;background:#ffffff;margin-top:2px;}
+ 
+/* Contact From */
